@@ -40,10 +40,10 @@
   <a href="https://twitter.com/Prince_ray_18" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/princeray18" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="https://linkedin.com/in/akshat-arya18" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://instagram.com/Prince-ray-18" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+  <a href="https://instagram.com/https://www.instagram.com/akshat.arya_?igsh=djlxanNlMTZ1Mmpt" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://facebook.com/https://www.facebook.com/share/16Cbgf7zdE/" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
