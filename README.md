@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: *Building a personal portfolio website and a data analysis platform with interactive charts.*
 - 💬 Ask me about: *MERN Stack, Web Development, Git/GitHub, and project building tips.*
 - 📫 How to reach me: [akshatarya3797@gmail.com](mailto:akshatarya3797@gmail.com)
-- 👨‍💻 **[My Portfolio](https://princeray-18.github.io/My-portfolio/)**
+- 👨‍💻 **[My Portfolio]()**
 - ⚡ Fun fact: *I enjoy automating repetitive tasks and turning ideas into working apps.*
 
 <div class="skills-section">
